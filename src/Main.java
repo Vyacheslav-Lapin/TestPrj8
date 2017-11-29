@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello, " + args[0] + "!");
 
+        new VariablesExample().javaMethod();
     }
 }

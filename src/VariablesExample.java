@@ -27,6 +27,9 @@ public class VariablesExample {
         long simpleVar = 1_000_000_000_000L;
         System.out.println("simpleVar = " + simpleVar);
 
+        Integer i = 55;
+        System.out.println("i = " + i);
+
         byte byteVar2 = 123;
         System.out.println("byteVar2 = " + byteVar2);
     }
