@@ -19,7 +19,9 @@ public class VariablesExampleTest {
         System.out.println("jkhgadg");
     }
 
+
     @Test
+
     public void javaMethod() {
         assertEquals("Метод должен возвращать 6", 6,
                 variablesExample.javaMethod());
